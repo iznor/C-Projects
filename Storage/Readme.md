@@ -23,9 +23,8 @@
         0 memory leaks
         
 # Files in repo
-    Storage.txt - a text file that includes the list of instructions that the program reads from
-                  (see "Instructions.pdf" for more details)
-    Storage.c - the code
+    "Storage.txt" - a text file that includes the list of instructions that the program reads from
+    "Storage.c" - the code
     
 # Note:
     At that point i did not study multiple files compilation modules yet, so the whole program is in one main file.
