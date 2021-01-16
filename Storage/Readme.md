@@ -23,7 +23,6 @@
         0 memory leaks
         
 # Files in repo
-    Instructions.pdf - a detailed instructions file that shows all the functionaities of the program (Hebrew)
     Storage.txt - a text file that includes the list of instructions that the program reads from
                   (see "Instructions.pdf" for more details)
     Storage.c - the code
