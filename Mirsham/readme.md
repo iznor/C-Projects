@@ -17,7 +17,6 @@
         Tokens (for ex. ignore "#" etc.)
         
 # Files in repo
-    Instructions.pdf - a detailed instructions file that shows all the functionaities of the program (Hebrew)
     Mirsham.txt - a text file that includes the full citizens list (see instructions for more details)
     Mirsham.c - the code 
     
