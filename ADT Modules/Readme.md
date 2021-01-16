@@ -35,7 +35,6 @@
         Advanced use of <string.h> library
         
 # Files in repo
-    "Instructions.pdf" - a detailed instructions file that shows all the functionaities of the program (Hebrew)
     "stringADT.h" - header file of the ADT
     "stringADT.c" - implementations of the ADT
     "App_StringADT.c" - an example of a main file on which the code is implemented (partly-given)
